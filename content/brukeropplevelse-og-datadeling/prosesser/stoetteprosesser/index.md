@@ -6,7 +6,7 @@ isResourceBundle: true
   title="Virksomhetstyring"
   owner="Dan Remi Mørk"
   leader="Marit Sandholm"
-  purpose="Styring innen feltene regulatorisk, risiko, sikkerhet og økonomi."
+  purpose="Styre regulatorisk arbeid, risiko, sikkerhet og økonomi."
   input="Mål og strategi for virksomheten"
   output="Fullførte leveranser"
 >}}
@@ -15,7 +15,7 @@ isResourceBundle: true
   title="Kvalitetsstyring"
   owner="Reidun Milde"
   leader="Snorre Aakerø"
-  purpose="Styring innen feltene metode, opplæring og dokumentasjonsstyring."
+  purpose="Styre områdene metode, opplæring og dokumentasjon."
   input="Mål og strategi for virksomheten"
   output="Fullførte leveranser"
 >}}
@@ -23,7 +23,7 @@ isResourceBundle: true
 {{< prosesser/card
   title="Intern service" 
   owner="Hege Nielsen" leader="John Viggo Klausmark" 
-  purpose="Gi støtte ansatte internt i Altinn" 
-  input="Henvendelser ansatte" 
-  output="Svare ansatte/fornøyde ansatte" 
+  purpose="Støtte interne ansatte i Altinn" 
+  input="Henvendelser fra ansatte" 
+  output="Svare ansatte/få fornøyde ansatte" 
 >}}
