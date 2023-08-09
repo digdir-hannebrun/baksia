@@ -31,4 +31,3 @@ Basert på brukerreisen kan vi definere hva som er hovedproblemet, og hva vi øn
 *Vi vil hjelpe brukeren med å _____ slik at ______ fordi _____.* 
 
 Vi kan også bruke andre verktøy i denne fasen, for eksempel lage personas.
-[Les mer om hvordan designerne i Digdir jobber her.](https://www.designsystemet.no/grunnleggende/introduksjon/designprinsipper)
