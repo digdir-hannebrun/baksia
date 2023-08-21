@@ -64,7 +64,7 @@ navigation_link:
   title="Produksjonssetting" 
   owner="Dan Remi Mørk" 
   leader="Torkel Buarøy" 
-  purpose="Ansvarlig for å rulle ut blant annet ny eller endret maskinvare, programvare, dokumentasjon og prosess til produksjonsmiljøet. Produksjonssetting er en del av styring av produksjonssettingsprosessen." 
+  purpose="Ansvarlig for å rulle ut blant annet ny eller endret maskinvare, programvare, dokumentasjon og prosess til produksjonsmiljøet." 
   input="Klargjorte endringer til produksjon"
   output="Sikre at endringer blir produksjonssatt til rett tid med riktig kvalitet"
 >}}
